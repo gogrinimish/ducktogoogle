@@ -3,8 +3,8 @@
   "name": "Duck to Google",
   "version": "1.0",
   "description": "Quickly switch from DuckDuckGo to Google search results",
-  "author": "Your Name",
-  "homepage_url": "https://github.com/yourusername/ducktogoogle",
+  "author": "N G",
+  "homepage_url": "https://github.com/gogrinimish/ducktogoogle/",
   "icons": {
     "48": "icons/icon-48.png",
     "96": "icons/icon-96.png",
@@ -27,7 +27,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "ducktogoogle@yourdomain.com",
+      "id": "kiwi-swore-pasta@duck.com",
       "strict_min_version": "57.0"
     }
   }
