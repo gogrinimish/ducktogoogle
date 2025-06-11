@@ -1,5 +1,5 @@
 {
-  "manifest_version": 4,
+  "manifest_version": 2,
   "name": "Duck to Google",
   "version": "1.2",
   "description": "Quickly switch from DuckDuckGo to Google search results",
