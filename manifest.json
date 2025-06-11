@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Duck to Google",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Quickly switch from DuckDuckGo to Google search results",
   "author": "N G",
   "homepage_url": "https://github.com/gogrinimish/ducktogoogle/",
